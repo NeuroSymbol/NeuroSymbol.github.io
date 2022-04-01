@@ -21,7 +21,7 @@ mermaid: true
   1. 客户机/服务器体系结构
 
        服务器：提供服务，IP地址永久，可扩展为数据中心
-
+![avatar](https://i0.hdslb.com/bfs/album/1c0d9fdbf6b4b72cd33e1bf5999cbc3649d8c1c9.png@518w.webp)
       客户机：请求服务，动态IP地址，彼此间不能直接通信
   1. 纯P2P体系结构
 
