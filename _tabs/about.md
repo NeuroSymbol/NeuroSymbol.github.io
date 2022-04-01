@@ -3,12 +3,12 @@ title: 关于
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm Tom!
+- ### Hi there 👋, I'm lirchis!
 
-  - 🏫  _BSc in Computer Science_.
-  - 💻  I work on C / C++ / Java / Objective-C & Swift / Python / Markdown.
-  - 🧠  I used to take internship as an iOS developer at Bytedance Techonology.
-  - 🏖️  I will go to Shenzhen and work as a back-end engineer at Tencent.
+  - 🏫  I am studying intelligent Science and Technology in Sun Yat-sen University
+  - 💻  I work on C / C++ / Java / Python / Markdown.
+  - 🧠  I'm learning about the Java back end.
+  - 🏖️  I'm trying my best to improve myself.
 
-公众号: 汤姆还在写代码
+公众号: 安静的基伍湖
 
