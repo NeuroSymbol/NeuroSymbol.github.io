@@ -8,7 +8,7 @@ author: david j
 
 toc: true
 comments: true
-typora-root-url: ../../lirchis.github.io
+typora-root-url: ../../NeuroSymbol.github.io
 math: false
 mermaid: true
 
